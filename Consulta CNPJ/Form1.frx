@@ -1,0 +1,44 @@
+ÿð{
+  "atividade_principal": [
+    {
+      "text": "Desenvolvimento de programas de computador sob encomenda",
+      "code": "62.01-5-01"
+    }
+  ],
+  "data_situacao": "05/06/2010",
+  "complemento": "QUADRA 02 LOTE 08 CASA 05",
+  "nome": "HENDELL ALVES CARDOSO - ME",
+  "uf": "GO",
+  "telefone": "(62) 3205-3246 / (62) 9205-4950",
+  "email": "hendell@hcsfotwer.com.br",
+  "atividades_secundarias": [
+    {
+      "text": "Desenvolvimento e licenciamento de programas de computador customizáveis",
+      "code": "62.02-3-00"
+    },
+    {
+      "text": "Desenvolvimento e licenciamento de programas de computador não-customizáveis",
+      "code": "62.03-1-00"
+    }
+  ],
+  "qsa": [],
+  "situacao": "ATIVA",
+  "bairro": "VILA JARDIM POMPEIA",
+  "logradouro": "R CARLOS GOMES",
+  "numero": "S/N",
+  "cep": "74.685-140",
+  "municipio": "GOIANIA",
+  "abertura": "05/06/2010",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "fantasia": "HCSOFTWARE",
+  "cnpj": "12.042.457/0001-48",
+  "ultima_atualizacao": "2017-10-06T05:18:56.075Z",
+  "status": "OK",
+  "tipo": "MATRIZ",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "extra": {}
+}
